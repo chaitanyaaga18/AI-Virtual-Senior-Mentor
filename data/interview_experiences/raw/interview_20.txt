@@ -1,0 +1,19 @@
+20. Software Engineer Interview Experience
+
+Company: Spotify
+
+Round 1: Coding Assessment
+
+2 coding questions
+
+Round 2: Technical Interview
+
+Coding problem on string manipulation
+
+Round 3: System Design
+
+Design a music recommendation system
+
+Round 4: HR Interview
+
+Cultural fit questions

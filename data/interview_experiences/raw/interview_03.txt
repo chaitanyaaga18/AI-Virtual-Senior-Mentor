@@ -1,0 +1,25 @@
+3. Google Interview Experience
+
+Company: Google
+
+Round 1: Online Assessment
+
+2–3 algorithm problems
+
+Topics: Graphs, Dynamic Programming
+
+Round 2: Technical Interview
+
+Coding problem using recursion
+
+Questions on complexity analysis
+
+Round 3: Technical Interview 2
+
+System design: Design a search autocomplete system
+
+Round 4: Behavioral Interview
+
+Problem solving approach
+
+Collaboration and leadership experience

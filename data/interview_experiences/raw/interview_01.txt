@@ -1,0 +1,29 @@
+1. Amazon Interview Experience
+
+Company: Amazon
+
+Round 1: Online Assessment
+
+2–3 coding questions (Data Structures & Algorithms)
+
+Topics: Arrays, HashMaps, Graph traversal
+
+Round 2: Technical Interview
+
+Questions on Trees and Graph algorithms
+
+Coding problem on Binary Tree traversal
+
+Discussion on time complexity
+
+Round 3: System Design Round
+
+Design a URL shortening service
+
+Discussion on scalability and databases
+
+Round 4: HR Interview
+
+Behavioral questions based on leadership principles
+
+Questions about teamwork and problem solving

@@ -1,0 +1,39 @@
+1. Software Development Engineer Intern
+
+Company: Amazon
+
+Job Summary
+
+Amazon is seeking talented students for the Software Development Engineer (SDE) Internship program. Interns work alongside experienced engineers to design and develop scalable systems that serve millions of customers worldwide.
+
+Key Responsibilities
+
+Collaborate with engineers to design and build innovative products and services.
+
+Design and develop scalable solutions in large distributed computing environments.
+
+Build distributed storage, indexing, and query systems.
+
+Participate in code reviews and contribute to technical documentation.
+
+Write clean, maintainable, and efficient code following best practices.
+
+Work in an agile development environment.
+
+Basic Qualifications
+
+Pursuing Bachelor’s degree in Computer Science or related field.
+
+Knowledge of programming languages such as Java, Python, or C++.
+
+Understanding of data structures and algorithms.
+
+Strong analytical and problem-solving skills.
+
+Preferred Qualifications
+
+Experience with distributed systems.
+
+Knowledge of AWS cloud services.
+
+Previous internship or software projects.

@@ -1,0 +1,45 @@
+Somya Kedia
+Gururam Haryana • 9413554064
+EMAIL • github.com/kediasomya • somya kedia
+EDUCATION
+• Varda Smart School Sikar Rajasthan
+10th Percentage: 95.8% 2020
+• SEM School Sikar Rajasthan
+12th Percentage: 92.4% 2022
+• The LNM Institute Of Information Technology Jaipur Rajasthan
+B-Tech Communication And Computer Engineering (CCE) 2022 -
+SKILLS
+• C++: Data Structures And Algorithm
+• SQL: Database Management
+• Front-End: HTML, CSS, Javascript ,React native , React js
+• Backend: Node js , Express js
+PROJECTS
+Wishlist Bot (HTML, CSS, Javascript, Python, Flask) [link]
+Developed a wishlist bot for an online shopping platform, allowing users to mix and match outfits from topwear,
+bottomwear, and footwear.
+Implemented features like customizable scrolling, user preferences, and outfit visualization.
+SafeShe (Flutter, Firebase, Python) [link]
+Developing a women’s safety application featuring an emergency SOS system that sends live location updates to
+registered emergency contacts.
+Currentlyimplementinga”SafePath”featurethatpredictsthesafestroutebasedoncrimedataandareatrends
+to ensure user safety.
+ACHIEVEMENTS
+• Phase 2 of Myntra HackerRamp 2024
+Advanced to Phase 2 of Myntra HackerRamp 2024 after successfully clearing Phase 1, demonstrating strong
+problem-solving and technical skills in a competitive environment. Certificate
+• TA at DSA and Computer Programming Lab
+Served as Teaching Assistant in the DSA Lab and currently at Computer programming Lab, mentoring stu-
+dents,andprovidingguidanceondatastructures,algorithms,andprogrammingconceptswhilefacilitatinglab
+sessions. Certificate
+EXTRACURRICULARS
+• Art Club Coordinator
+Served as the coordinator and then the mentor of Art Club, LNMIIT. Led a team of around 100 members,
+overseeing the planning, coordination, and execution of yearlong creative events.
+• Member of LNMHACKS Organising Committee
+Member of the Organizing Committee of LNMHacks, an annual hackathon at LNMIIT, successfully led and
+executed LNMHacks 6.0, including hosting and event management.
+• PR and Events Head at Vivacity Organising Committee
+Public Relations and Events Head for Vivacity, the cultural festival at LNMIIT. Managed fest organization,
+event promotion, and public communication to ensure strengthened participation in all over the fest, and
+handling all aspects of event planning to execution.
+1

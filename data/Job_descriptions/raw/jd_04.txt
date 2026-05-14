@@ -1,0 +1,23 @@
+4. Data Scientist Intern
+
+Company: IBM
+
+Job Summary
+
+IBM is looking for Data Scientist Interns to analyze data and develop predictive models for business solutions.
+
+Responsibilities
+
+Perform data analysis and statistical modeling.
+
+Develop machine learning models.
+
+Create data visualizations and dashboards.
+
+Requirements
+
+Knowledge of Python, R, or SQL.
+
+Understanding of statistics and ML algorithms.
+
+Experience with data analysis tools.

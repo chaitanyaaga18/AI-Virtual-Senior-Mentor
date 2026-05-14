@@ -1,0 +1,37 @@
+22. Software Engineer Intern
+
+Company: Apple
+
+Job Title
+
+Software Engineer Intern
+
+Location
+
+Hyderabad, India
+
+Job Summary
+
+Apple is seeking passionate Software Engineering Interns to work on innovative technologies that enhance the user experience across Apple devices and services.
+
+Key Responsibilities
+
+Develop software components for Apple platforms.
+
+Collaborate with engineering teams on product development.
+
+Write high-quality, efficient code.
+
+Participate in testing and debugging processes.
+
+Basic Qualifications
+
+Pursuing degree in Computer Science, Software Engineering, or related field.
+
+Strong programming skills in Swift, C++, or Python.
+
+Preferred Qualifications
+
+Experience in mobile application development.
+
+Knowledge of iOS/macOS development frameworks.

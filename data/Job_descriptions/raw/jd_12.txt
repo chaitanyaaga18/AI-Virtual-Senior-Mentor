@@ -1,0 +1,41 @@
+12. Backend Developer Intern
+
+Company: Paytm
+
+Job Title
+
+Backend Developer Intern
+
+Location
+
+Noida / Bangalore, India
+
+Job Summary
+
+Paytm is seeking Backend Developer Interns to work on scalable fintech platforms supporting millions of daily transactions. Interns will collaborate with engineering teams to design, develop, and maintain backend services and APIs.
+
+Key Responsibilities
+
+Develop and maintain backend services and APIs.
+
+Implement scalable microservices architecture.
+
+Integrate backend services with databases and external systems.
+
+Monitor and optimize application performance.
+
+Collaborate with frontend and product teams.
+
+Basic Qualifications
+
+Pursuing a Bachelor’s degree in Computer Science or related field.
+
+Knowledge of Java, Node.js, or Python.
+
+Understanding of REST APIs and database systems.
+
+Preferred Qualifications
+
+Familiarity with microservices architecture.
+
+Knowledge of Docker or Kubernetes.

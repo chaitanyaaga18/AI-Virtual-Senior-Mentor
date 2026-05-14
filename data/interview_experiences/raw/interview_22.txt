@@ -1,0 +1,19 @@
+22. Software Engineer Interview Experience
+
+Company: Qualcomm
+
+Round 1: Online Test
+
+Programming and aptitude
+
+Round 2: Technical Interview
+
+Questions on C programming and operating systems
+
+Round 3: Technical Round
+
+Embedded systems discussion
+
+Round 4: HR Interview
+
+Communication and teamwork questions

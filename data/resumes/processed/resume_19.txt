@@ -1,0 +1,49 @@
+Partha Pratim Chatterjee
+5829HobartStreet,Pittsburgh,PA15213
+(cid:140) mysite.me Q pchatter@andrew.cmu.edu (cid:135) yourgithub ˘ 928-409-2740
+EDUCATION
+CarnegieMellonUniversity Pittsburgh,PA
+MasterofInformationSystemsManagement May2019
+WestBengalUniversityofTechnology Kolkata,WestIndia
+BachelorofTechnologyinAppliedElectronicsandInstrumentationEngineering August2011
+KEY SKILLS
+ACADEMIC PROJECTS
+AmazingProject1 Aug2017-Present
+○␣ RancustomMinecraftmodsonCentOSandDebianservers
+○␣ ReverseengineeredobfuscatedJavausingadecompilerandreflection
+AmazingProject2 Feb2016–May2017
+○␣ Beganagrouptocreatethefirst36hourstudent-runhackathoneverheldatIllinois
+○␣ Led50stafftoraise$175,000forHackIllinois,managingrelationshipswith60+sponsors
+○␣ Plan events to increase social interaction among ACM members, as well as events to foster the spirit of
+computerscienceatIllinois
+AmazingProject3 Jan2015–May2015
+○␣ AssistinrecruitingpotentialandadmittedstudentstotheUIUCcomputerscienceprogram
+○␣ Attendinformationsessions,admittedstudentQ&A’s,andstudentlunchestogenerateinterestintheIllinois
+ComputerSciencedepartment
+EXPERIENCE
+TataConsultancyServiesLimited Kolkata,India
+TechnologyAnalyst June2016-May2017
+○␣ DesignedandbuiltthefirstversionofinfrastructurecodebasewhichbuilttheentireenvironmentofSDLCat
+runtime. Thisreducedthedevelopmentteams’monthlyexpensesonAWSserversby100thousanddollars.
+○␣ Designedandacentralizedbuildstrategyforallthesoftwarecomponentsofourclient. Themonolithic
+designofourbuildmodulebroughtnewbusinesstoTCS
+TechnologyAnalyst Edinburgh,Scotland
+○␣ Builtacontinuousdeliverymodelformyclient’sDevelopmentTeam. July2015–June2016
+Theincrementaldevelopmentmethodreducedthree-mandaysofdevelopmenttimeona14-day
+sprint.
+○␣ CreatedProductionliketestingenvironmentsinAWSCloudforsprintteamstoenhance
+test-drivendevelopment. Thenewprocesspromotedqualitydevelopmentculture. Thenumberof
+defectswerereducedbyone-fifth. Thetimesavedinfixingbugsincreasedthedevelopmenttime
+by15
+SystemsEngineer Bangalore,India
+○␣ Developedacomprehensiveshellscriptthatremotelymonitored March2012–July2015
+thehealthofalltheproductionservices. Thescriptvisualizedthecurrentstateofthedifferent
+productionservicesinadashboard. Thetransparentreportdashboarddecreasedproductionoutagetoonetwoincidentsinafinancialquarter.
+○␣ EncapsulatedthebuildscriptsinaJenkinsautomationserver. Theuser-friendlyJenkinsGUI
+empoweredthedeveloperstotriggernewbuildsthemselves. TheDevOpseffortsavedwas2
+man-dayseveryweek.
+AWARDS AND ACHIEVEMENTS
+○␣ Winner,TataInnovista,November2016
+○␣ PresidentofXYZClub,PublicRelationsManagerofSwarthmoreQWEClub
+○␣ ProgrammingLanguages: Python,C,C++,PHP,Java,HTML/CSS,Javascript,jQuery,NodeJS
+○␣ FluentinGibberish,conversationalinNonsense

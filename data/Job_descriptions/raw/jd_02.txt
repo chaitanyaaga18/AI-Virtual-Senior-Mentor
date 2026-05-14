@@ -1,0 +1,29 @@
+2. Software Engineer Intern
+
+Company: Microsoft
+
+Job Summary
+
+Microsoft is looking for Software Engineer Interns to help design and build software solutions used by millions of users worldwide.
+
+Responsibilities
+
+Design and implement new software features.
+
+Write efficient, scalable, and maintainable code.
+
+Collaborate with engineers, product managers, and designers.
+
+Debug and optimize software applications.
+
+Participate in code reviews.
+
+Qualifications
+
+Pursuing degree in Computer Science or related field.
+
+Knowledge of C++, Java, Python, or C#.
+
+Understanding of object-oriented programming.
+
+Strong communication and teamwork skills.

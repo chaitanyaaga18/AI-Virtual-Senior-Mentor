@@ -1,0 +1,39 @@
+14. Data Analyst
+
+Company: Capgemini
+
+Job Title
+
+Data Analyst
+
+Location
+
+India (Multiple Locations)
+
+Job Summary
+
+Capgemini is seeking Data Analysts to analyze business datasets and provide insights that support data-driven decision making.
+
+Key Responsibilities
+
+Collect and analyze large datasets.
+
+Identify trends and patterns in data.
+
+Create reports and dashboards.
+
+Collaborate with business stakeholders.
+
+Basic Qualifications
+
+Bachelor’s degree in Computer Science, Statistics, or Data Science.
+
+Knowledge of SQL and Excel.
+
+Basic understanding of data analysis techniques.
+
+Preferred Qualifications
+
+Experience with Power BI or Tableau.
+
+Knowledge of Python or R.

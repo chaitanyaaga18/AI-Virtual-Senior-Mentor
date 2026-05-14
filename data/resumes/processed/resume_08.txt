@@ -1,0 +1,59 @@
+Mukesh Kumar Ranjan
+FULL STACK DEVELOPER
+WHO AM I AT A GLANCE
+I have been working with web development since 2014, the period during which I have worked in
+different environments from big MNC to starts-ups. I am a self-motivated and self taught
+professional who likes to solve real world problems in the domain of web and software
+development with experience handling multiple projects utilising my team management skills.
+WHY HIRE ME? SKILLS & COMPETENCIES
+I'm a result-oriented web application developer with Web Technologies - Frameworks - DataBases
+considerable training and hands-on project building JavaScript Express.Js MongoDB
+experience in all stages of design, coding, and testing PHP Node.Js PostgreSQL
+of web applications. Web Servers - Version Control - Cloud Platform
+I merge a passion for usability and user experience NGINX Github Heroku
+with technical knowledge to create cool digital world AWS Github Pages Netlify
+experience. My repertoire includes programming Additional Technical Competencies
+languages and tools such as JS, AJAX, JQuery, PHP, HTML CSS Web Sockets JQuery
+Wordpress, MySQL, NodeJs, Bootstrap, Github etc. React.Js Photoshop Shell Scripting Open Source
+ACADEMIC BACKGROUND LATEST PROJECTS
+#SCHOOL OF ACCELERATED LEARNING, HYD #WEBDEVPOOL - A DEVELOPERS COMMUNITY
+Product Engineering - (June - December) 2020 Node Js, React Js, Express Js, Mongo DB
+Completed and Graduated with all the 11 MVP's built Built a professional network for developers
+using Javascript and Node Js framework technology. where they can share their skills, experiences,
+education and showcase their 5 recent github
+#PUNJAB TECHNICAL UNIVERSITY, JALANDHAR
+repositories with other developers worldwide.
+Bachelor of Technology - Computer Science and Users can create their profiles, publish posts, like
+Engineering - August 2010 to June 2014 posts and can make comments in post.
+Graduated with a bachelors degree that equipped Created Back-end API and worked on integration
+me with the knowledge of web fundamentals, for the webdevpool application.
+programming languages and operating systems. Managed the team and designed the website
+wire-framing from the scratch with the idea.
+PROFESSIONAL EXPERIENCE #AUTHORSBLOG - A BLOGGING PLATFORM
+Node Js, React Js, Express Js, Mongo DB
+#CONCENTRIX DAKSH SERVICES INDIA PVT. LTD. Built a guest blogging platform for authors and
+Senior Advisor | April 2017 to February 2020 bloggers who want to promote their online
+Worked on Multiple Client Projects - "Machine business by writing articles in this platform.
+Users can sign-in/up, create their profiles and
+Learning", "Revue Tool - UI-UX" & "LMS Systems".
+publish their posts, comment and like also.
+Creating & Maintaining various database related tasks.
+Lead the team, designed the website wire-framing
+Resolving multiple bugs/issues & meet project deadlines.
+and created back-end API for product.
+Bucket Lead | June 2015 to March 2017
+Handled team and successfully developed UI-UX for web. #IMGUP - AN IMAGE UPLOADING APPLICATION
+Converting designs to relevant responsive websites. Node Js, React Js, Express Js, Firebase
+Integrating modules and working with different API's. Simulated the popular image sharing web
+application imgur.com.
+#INNOVATIVE TRAINING PLACE, NEW DELHI
+Users can upload single or multiple images and
+SEO & Data Analyst | November 2014 to May 2015
+after that they will get a notification in the bar.
+Handled web development and Client SEO Activities.
+Created the entire back-end API, Integrated front-
+Worked on 20 applications & Managed databases.
+end and done testing for this web application.
+Email: mukesh.ranjan593@gmail.com https://imukeshr.zyrosite.com
+CONTACT INFORMATION:
+Dial: (+91) 783-881-0985 : (+91) 726-009-5190

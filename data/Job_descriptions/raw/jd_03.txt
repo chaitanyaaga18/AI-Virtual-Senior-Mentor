@@ -1,0 +1,27 @@
+3. Machine Learning Intern
+
+Company: Google
+
+Job Summary
+
+Google is seeking Machine Learning Interns to work on cutting-edge AI technologies and large-scale data systems.
+
+Responsibilities
+
+Develop machine learning models.
+
+Train and evaluate models using large datasets.
+
+Implement feature engineering techniques.
+
+Collaborate with research teams to improve algorithms.
+
+Requirements
+
+Python programming skills.
+
+Knowledge of machine learning algorithms.
+
+Familiarity with TensorFlow or PyTorch.
+
+Strong mathematical background.

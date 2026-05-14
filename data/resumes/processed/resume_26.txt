@@ -1,0 +1,42 @@
+Daniel Phang
+Seattle,Washington
+(cid:212) (000)000-0000 (cid:16) example@example.com (cid:137) github.com/example-profile (cid:176) linkedin.com/in/example
+Experience
+Microsoft Redmond,WA
+SoftwareEngineerII April2019–Present
+• Analyzed performance data and optimized legacy backend code for SharePoint Classic Publishing sites,
+improvingquerycachingandCPU-heavyoperationssuchasHTMLrewriting.
+• Designedandimplementedquality-of-servicedashboardsandperformanceframeworkstodynamicallyde-
+tectperformanceissuesacross400+topcompanies.
+• Improved data processing scripts that analyze daily site performance data for 1000+ companies, perfor-
+manceincidents,andengineeringsystemhealth.
+Amazon.com Seattle,WA
+SoftwareDevelopmentEngineerII October2016–January2019
+• Designed and implemented ordering and accounting workflows to launch Prime Wardrobe US/UK/JP, a
+try-before-you-buyprogramforclothing,jewelry,andshoes.
+• Reduced the US Prime Wardrobe non-payment rate significantly by implementing additional validations
+basedoncustomerbehaviorpatterns.
+• Optimized Prime Wardrobe’s Redshift cluster by intelligently distributing workloads, reducing peak CPU
+usagefrom95%to50%andpeakdiskusagefrom90%to60%.
+• Migrated Prime Wardrobe’s accounting backend to a next-generation plugin-based service, allowing for
+easyfutureintegrationwithotherretailprograms.
+SoftwareDevelopmentEngineerI June2014–October2016
+• Implemented critical detail page and globalized item publishing features to help launch the Rest of World
+project,whichenabledcustomersfrom200+countriestopurchasedigitalsoftwareandvideogames.
+• Designed and implemented an automated accounting solution for the Digital Software & Video Games
+business,reducingtheworkrequiredinmonthlyaccountingclosefrom10+hoursto2hours.
+• CreatedaninternalDjangowebsiteforvendormanagerstomanagepricing,blacklisting,andinventoryfor
+softwareandvideogames,reducingmonthlyoperationaltimespentfrom20+hoursto10hours.
+Crunchyroll SanFrancisco,CA
+EngineeringIntern June2013–August2013
+• DevelopedanewversionofCrunchyroll’sapplicationfortheRokuplatform.
+• Worked with a designer to revamp the application’s user interface, improved HD video playback, and im-
+plementedamultilingualtranslationsframework.
+Skills
+Languages: C#,HTML/CSS,Java,JavaScript,LATEX,Python,SQL
+Software: Atlassian (Bitbucket, Jira, Confluence), AWS (DynamoDB, EC2, Lambda, RDS, Redshift, S3, SQS),
+Microsoft(AzureDevOps,VisualStudio),DigitalOcean,Django,Heroku,IntelliJIDEA,Selenium
+Education
+LehighUniversity Bethlehem,PA
+M.S.ComputerScience(GPA:3.96/4.00) August2013–May2014
+B.S.ComputerEngineering(MinorinEconomics)(GPA:3.77/4.00) August2009–May2013

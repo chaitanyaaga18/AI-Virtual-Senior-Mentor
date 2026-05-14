@@ -1,0 +1,39 @@
+11. Cloud Engineer Intern
+
+Company: Oracle
+
+Job Title
+
+Cloud Engineer Intern
+
+Location
+
+Hyderabad / Bangalore, India
+
+Job Summary
+
+Oracle is looking for Cloud Engineer Interns to support development and deployment of cloud infrastructure and services.
+
+Key Responsibilities
+
+Assist in deploying and managing cloud infrastructure.
+
+Monitor and maintain cloud-based applications.
+
+Work with engineering teams to improve system reliability.
+
+Participate in troubleshooting and debugging issues.
+
+Basic Qualifications
+
+Currently pursuing degree in Computer Science, IT, or related field.
+
+Knowledge of cloud computing concepts.
+
+Experience with Linux operating systems.
+
+Preferred Qualifications
+
+Familiarity with Docker or Kubernetes.
+
+Knowledge of networking and virtualization technologies.

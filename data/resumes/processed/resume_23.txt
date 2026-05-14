@@ -1,0 +1,93 @@
+VIKAS REDDY DEVARINTI
+AWS Cloud Engineer
+Phone: (312) 446-5384 | Email: vikasreddy811@outlook.com | LINKEDIN | GITHUB
+SUMMARY
+I am a Cloud Engineer with over 3 years of experience working on AWS and cloud
+infrastructure. I am skilled in building scalable systems, automating tasks, and managing CI/CD
+pipelines to keep applications stable and reliable. I have experience in cloud migration,
+containerized deployments, monitoring, security, and supporting enterprise-level applications.
+TECHNICAL SKILLS
+• Cloud Platforms & Services: AWS (EC2, S3, ECS, EKS, ECR, IAM, RDS, VPC, Route 53,
+CloudWatch, CloudTrail, SNS), IBM Cloud, Oracle Cloud, Azure, GCP.
+• CI/CD & DevOps Tools: GitHub Actions, Jenkins, GitLab CI/CD, AWS CodeDeploy, Maven
+• Containers & Orchestration: Docker, Docker Compose, Kubernetes, Amazon EKS, ECS
+Fargate
+• Infrastructure as Code & Automation: Terraform, AWS CloudFormation, Ansible
+• Monitoring, Logging & Alerting: Amazon CloudWatch (logs, metrics, alarms), Prometheus,
+Grafana, ELK Stack, Slack integrations
+• Networking & Traffic Management: VPC, Subnets, Security Groups, Application Load
+Balancer (ALB), Route 53, Client VPN
+• Programming & Scripting: Python, Bash, VBScript, YAML, JSON, Java, C++, Problem Solving
+• Security & Engineering Practices: IAM, KMS, AWS WAF, CloudFlare, Image Scanning,
+Blue-Green deployments, Agile & DevOps practices
+PROFESSIONAL EXPERIENCE
+AWS Cloud Engineer Jun 2025 – Present
+IBM – USA
+• Designing and managing scalable AWS infrastructure using multi-account setup with AWS
+Organizations.
+• Creating secure network architecture using VPC, Subnets, Security Groups, ALB, Route 53, and
+Client VPN.
+• Migrating applications and databases from Heroku to AWS, ensuring smooth transition with
+zero critical downtime.
+• Managing PostgreSQL databases on Amazon RDS, including backups, monitoring, and
+performance tuning.
+• Deploying containerized applications using Docker and ECS Fargate to support auto-scaling
+workloads.
+• Building and maintaining CI/CD pipelines using GitHub Actions, ECR, ECS, and CodeDeploy.
+• Implementing Blue-Green deployments to release features safely without impacting users.
+• Improving application security using AWS WAF and CloudFlare to protect against threats.
+• Working with clients to integrate APIs between platforms and manage traffic efficiently using
+ALB.
+• Monitoring infrastructure and applications using CloudWatch, CloudTrail, SNS, and AWS
+Chatbot.
+• Used application logs and metrics from AWS CloudWatch to identify unusual patterns and
+support early issue detection.
+• Supported intelligent alerting workflows by structuring monitoring data to reduce noise and
+improve incident response time.
+• Helped design scalable AWS infrastructure that can reliably support AI and data-driven
+applications by ensuring stable compute, storage, and networking.Software Engineer Dec 2020 – Jul 2023
+Tata Consultancy Services (TCS) – INDIA
+• Worked on maintaining and supporting the internal intranet systems for Harley-Davidson.
+• Developed automation frameworks using VBScript, reducing manual work by nearly 25%.
+• Led a small automation team for code changes, reviews, and bug fixes.
+• Fixed automation failures and improved script reliability.
+• Used ServiceNow to track and resolve user-reported issues on a daily basis.
+• Conducted knowledge transfer sessions to train new joiners and support team transitions.
+• Received a Certificate of Excellence for contributions to automation work.
+• Infrastructure and DevOps Responsibilities
+• Managed 20+ Linux servers running WebSphere and Apache environments.
+• Automated routine server tasks using Python and Bash scripts.
+• Supported application deployments on Oracle Cloud and IBM Cloud platforms.
+• Maintained Jenkins pipelines for deployments across dev, QA, and production environments.
+• Used Docker and Maven to ensure consistent builds and deployments.
+• Worked closely with development and QA teams following Agile and DevOps practices.
+PROJECTS
+AWS DevOps Pipeline Project
+• Built an end-to-end CI/CD pipeline using GitHub Actions.
+• Automated code build, testing with pytest, Docker image creation, and deployment to AWS
+EKS.
+• Used multi-stage Docker builds to reduce image size and improve performance.
+• Configured IAM roles and permissions for secure access between services.
+• Stored build artifacts securely in Amazon S3.
+• Set up CloudWatch alarms integrated with Slack for real-time alerts.
+• Created Grafana dashboards using Prometheus to monitor Kubernetes pod metrics.
+Dropbox Prototype
+• Built a scalable file storage and sharing system similar to Dropbox.
+• Implemented features like file upload, sharing, and group creation.
+• Developed REST APIs using Node.js and React.
+• Used Kafka, Amazon S3, MongoDB, and SQL for data handling.
+Predicting City Health Metrics Using Big Data
+• Collected data from open sources and performed analysis using R Studio.
+• Used Sparklyr for big data processing.
+• Created visual reports and maps using R libraries.
+• Helped users compare health metrics of different regions for better decision-making.
+Starbucks Prototype
+• Developed a multi-tenant order processing system on AWS.
+• Built REST-based services using React and AWS EC2.
+• Used AWS Load Balancer and Auto Scaling for high availability.
+• Implemented API routing using Kong API Gateway.
+EDUCATION
+Master in Information Technology and Management
+Indiana Wesleyan University Aug 2023 – May 2025
+Bachelor Of Technology in Electronics and Communication Engineering
+Karunya Institute of Technology and Sciences July 2018 – May 2022

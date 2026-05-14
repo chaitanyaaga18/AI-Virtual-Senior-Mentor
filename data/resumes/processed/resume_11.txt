@@ -1,0 +1,56 @@
+Meghna Lohani
+Campus Address Meghna.lohani2016@vitstudent.ac.in Permanent Address
+LHA, VIT Chennai Cell-8511192673 F-203, Shangri La
+Chennai, Apartments
+T amil Nadu Vadodara
+OBJECTIVE To apply my technical skills for the growth of the company
+EDUCATION Vellore Institute of Technology, Chennai (T.N.)
+Bachelor of Computing Science and Engineering
+CGPA: 9.24/10.0 (Till V semester), to be awarded May 2020
+St. Patrick’s Junior College, Agra
+HSC (Class XII), ICSE
+Percentage: 97, awarded May 2015
+St. Patrick’s Junior College, Agra
+SSC (Class X), ICSE
+Percentage:95 awarded May 2013
+DATE OF BIRTH 12-May-1998
+LANGUAGES Hindi and English
+KNOWN
+COURSEWORK Object Oriented Programming Digital Logic and design
+Database Management Systems Software Engineering
+Data Structures and Algorithms Computer Architecture
+Discrete Mathematics
+Machine Learning Statistics for Engineer
+COMPUTER Languages: Python, C, C++, R (Beginner), Java
+SKILLS
+HTML, PHP, JavaScript, SQL, Data Structures, Data
+Skills: Science, Machine learning,Android
+,
+EXPERIENCE Developer at VIT Technovit Website Team
+Won two hackathons
+Co-ordinator of the android club
+ACTIVITIES Drawing, Painting, Playing ChessProjects
+Campus Commune
+Java Netbeans IDE, MySQL, JDBC
+An application which provides a platform for students from
+various colleges to interact, share knowledge about projects
+and courses.
+Good For Female - GFF
+Android Studio, PHP, Machine learning
+An android application which caters to women health and
+safety. Winner of the Best Problem Addressed Award on Social
+Welfare.
+Smart Farming
+Sensors, Actuators, Arduino, ThingSpeak, MIT Apps
+A smart farming application which allows remote automation
+and monitoring of farming activities. Data is sensed and
+pushed to cloud(ThingSpeak), can be controlled using an app.
+Face Detection and Identification
+C++, OpenMP, OpenCV
+A C++ application which detects and recognizes faces from
+input image, input video or live streaming video.
+Voice Automated Cloud with Face Authentication
+Docker, Speech Recognition, OpenCV
+Created own cloud which authorizes user using Face Detection
+and provides various services (SaaS, PaaS, IaaS) using voice
+commands.

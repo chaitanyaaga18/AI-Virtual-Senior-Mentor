@@ -1,0 +1,48 @@
+A.Sanjana Senapati
++91 9777554070 | senapatiasanjana@gmail.com | https://www.linkedin.com/in/a-sanjana-senapati-5756782a4/ |
+github.com/2003khu | leetcode.com/u/sanjanasen/
+Education
+Vellore Institute of Technology 8.75 CGPA
+Bachelor of Technology in Computer Science and Engineering July 2021 - July 2025
+Technical Skills
+Programming Languages: C++, Python, MySQL, Java, Excel
+Tools and Technologies: Pandas, Matplotlib, NumPy,Seaborn, TensorFlow, Postman, Power BI, AWS
+Concepts:Deep Learning, CV, Data Structures and Algorithms, DBMS, Operating Systems, Computer Networks, OOPs
+Other:Git, Nvidia DeepStream, TensorRT (basic) , Model Deployment (Flask, Docker)
+Projects
+AI-Powered Customer Subscription Prediction | AI/ML Project May 2024 - June 2024
+• Uses machine learning to analyze customer app behavior and predict subscription likelihood, leveraging Matplotlib
+and Seaborn to identify trends and patterns.
+• Implements feature selection, preprocessing, and classification models for accurate predictions.
+• Provides insights to enhance customer engagement and boost subscription rates. Uses Pandas and NumPy for
+efficient data cleaning, transformation, and manipulation.
+Personalized Medical Recommendations with AI | AI/ML Project November 2023 - March 2024
+• Developed a system leveraging advanced machine learning models to predict diseases accurately based on
+user-input symptoms.
+• Designed a user-friendly web application providing tailored recommendations for medicines, prescriptions, and
+workout routines while ensuring data privacy and security.
+• Improved model accuracy and user engagement with feedback while creating a seamless HTML frontend. Used
+Python (Pandas, NumPy, Matplotlib, Seaborn) to analyze patient data and predict disease risks.
+Certifications
+Python, Kaggle 21 January,2023
+Kaggle
+AWS Certified Solution Architect 10 July, 2024
+AWS
+Machine learning with python Oct 16,2023
+COGNITIVE CLASS.ai
+Natural Language Processing April 10,2024
+NPTEL
+Extra-Curricular and Achievements
+Responsibilities |
+• Core Member and Team Lead, Management Team, Odia Club, VIT Bhopal (April 2023 - May 2024) – Led
+cross-functional teams to enhance project efficiency and streamline operations through strategic process
+improvements.
+• Core Member of the Technical Team, FinTech Club (January 2023 - April 2024), developed financial models and led
+blockchain workshops, improving club projects by 20% and member engagement by 30%.
+• Achieved scholarships of 18,000 rupees and 10,000 rupees for outstanding performance in 8th NMMS and 10th
+board exam.
+Achievements |
+• Core Member Recognition: Demonstrated strategic leadership and team facilitation skills to coordinate
+cross-functional teams, arising in a 33% increase in project efficiency.
+• Led Design Team: Successfully managed major events with budgets over Rs 1 Lakh, earning accolades within the
+Odia Club, Year 2024.

@@ -1,0 +1,41 @@
+SUDIPTO BARAL
+Phone: 8801743142948
+Email:sudiptobaral.me@gmail.com
+GitHub:https://github.com/sudiptob2
+INTRODUCTION
+I am an open-source beginner with a keen interest in contributing to projects related to Cloud, Infrastructure, and
+DevOps. My active involvement in open-source began during the last Hacktoberfest (October2022)event,andsince
+then, I have been continuously making contributions and expanding my knowledge of open-source software
+development.
+EDUCATION
+BSc (Eng.) in CSE
+Patuakhali Science and Technology University, Bangladesh. 2015-2019
+CGPA 3.50/4.00( last four semesters were3.67, 3.85,4.00, and 3.85respectively)
+Position 2nd/63
+EMPLOYMENT
+Software Engineer
+Brac IT Services Ltd. Dhaka, Bangladesh.
+March 1, 2021 – Present (2yrs)
+I specialize in the development of backend Rest APIs using Python and Django, with occasional contributions to
+NodeJS-based projects. Additionally, I have extensive experience in contributing to Infra,Cloud,andDevOps,whereI
+excel in defining and structuring CI/CD pipelines, deploying with Docker and Kubernetes, and implementing
+monitoring solutions to ensure resilient and highly available solutions.
+AWARDS
+Hacktoberfest 2022
+I have participated HacktoberFest 2022 and successfully complement the requirements.
+2nd Runner up - National Cyber Drill 2021
+Our team SiliconBits secured the 3rd position in the National Cyber Drill 2021 (CTF competition) where 306 teams,
+including financial organizations and other government and non-government organizations, participated.
+OPENSOURCE PROJECTS
+CF-Stats
+I have created and open-sourced CF-Stats which is a GitHub action-based real-time Codeforces card and badge
+generator for GitHub readme. It’s a simple but useful project which is liked by many people. Written entirely in python.
+Project Link:https://github.com/sudiptob2/cf-stats
+Chkware
+CHKware is a low-code API quality testing and automation toolbox. I have contributed mainlytoimprovingunittests
+and its assert feature. Later became a core member of the project.
+project link: https://github.com/chkware/cli
+LeetEasy
+LeetEasy is a small tool that sends a desktop notification when a new easy leetcode problem is published. Written
+entirely in python.
+Project link:https://github.com/sudiptob2/leet-easy

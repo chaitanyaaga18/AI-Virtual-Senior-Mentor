@@ -1,0 +1,41 @@
+6. Data Analyst Intern
+
+Company: Deloitte
+
+Job Title
+
+Data Analyst Intern
+
+Location
+
+Bangalore / Gurgaon, India
+
+Job Summary
+
+Deloitte is seeking a Data Analyst Intern to support business teams in analyzing large datasets and generating actionable insights. The intern will assist in building analytical models, creating dashboards, and supporting decision-making processes through data-driven analysis.
+
+Key Responsibilities
+
+Analyze structured and unstructured datasets to identify trends and insights.
+
+Create data visualizations and dashboards using BI tools.
+
+Perform data cleaning, transformation, and validation.
+
+Assist in developing analytical reports for stakeholders.
+
+Support business teams in data-driven decision making.
+
+Basic Qualifications
+
+Currently pursuing a Bachelor’s degree in Computer Science, Statistics, Data Science, or related field.
+
+Knowledge of SQL, Python, or R.
+
+Familiarity with Excel and data visualization tools.
+
+Preferred Qualifications
+
+Experience with Power BI or Tableau.
+
+Understanding of statistical analysis and data modeling.

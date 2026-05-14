@@ -1,0 +1,69 @@
+Rohit Ghumare Email : ghumare64@gmail.com
+LinkedIn — Medium — Github Mobile : +91-8286933169
+Education
+Datta Meghe College of Engineering Navi Mumbai, India
+•
+(Affl. Mumbai University; B.E in Computer Engineering); GPA: 8.12/10 August 2016 - October 2020
+Royal Jr College Dombivali, India
+•
+(Computer Science; Maharashtra Board of Secondary Education); 72.46% May 2014 - April 2016
+Programming Skills
+• Languages: Python, Groovy, Terraform, Ansible, Java, SQL, JSON, NoSQL, HTML, CSS, RASA
+• Technologies and Frameworks: AWS, Azure, RedHat Tools, MLOps, DevOps Tools, Openshift, Codefresh, Jenkins
+Experience
+Reverie Language Technologies Ltd Bangalore, India
+•
+Software Engineer (Speech/NLP) - Full time Dec 2020 - Present
+◦ Part of the Research and Development(R&D) team that serves over 5 million people requests daily.
+◦ Followed the Agile model and worked extensively in Python, Postman, Docker, Kubernetes and Azure technologies
+for deployment.
+◦ Used Machine learning to train and build extensive Language models for Reverie API improvement and build IVR
+Bots for Reverie Voice suite.
+H-Bots Robotics Pvt Ltd Hyderabad, India
+•
+DevOps Cloud Engineer Jun 2020 - Dec 2020
+◦ Setup and managed 50+ Linux servers with 99% up-time.
+◦ Managed continuous deployment of Machine Learning based robot on Amazon Web Services.
+◦ Developed and Deployed multiple chatbots from scratch which helped to increase in revenue growth by 30%
+Katonic.ai Pyt Ltd Sydney, Australia
+•
+AIOps/MLOps Engineer - Contractual Work Aug 2020 - Sep 2020
+◦ Setup and managed early stages of platform which solves Chain Risk and Incident Rise Predictions problems.
+◦ Built ML models and MLOps pltaform on Kubeflow, ServiceNow and Amazon Web Services.
+LinuxWorld Informatics Pvt. Ltd. Jaipur, India
+•
+MlOps Cloud Engineer - Intern April 2020 - Jun 2020
+◦ Used DevOps Tools to create pipeline for entire MLOps product which can automate training for models from
+scratch to deployment and production.
+◦ Worked on multiple cloud platforms and IaC(Terraform, Ansible) to integrate all technologies(Machine Learning,
+DevOps and Hybrid Multi Cloud.
+Projects
+• PREDICTION OF DISEASE & PESTICIDES USING IMAGE PROCESSING OF UNHEALTHY
+CROPS An attempt to solve the issues faced by our farmers, Application to detect the disease affected unhealthy crop
+by just clicking the image of the leaf of that plant and then using CNN (TF+Keras) model made from scratch(accuracy
+95%) connected to Application developed using flutter will show the Confidence, Disease and Pesticides recommendation
+to cure the disease.
+• DISEASE PREDICTION USING MACHINE LEARNING Online tool to predict the diseases of a person by
+providing various types of symptoms. We used two types of algorithms viz. Naive Bayes and Decision tree for
+classification of classes to predict the disease.
+• Deploying Infrastructure for Web Application on Amazon EKS Used Kubernetes services on Cloud to launch
+Web Application with Load balancer i.e. Amazon Web Service EKS to launch Wordpress Application with auto-scaling.
+• Automation using Kubernetes from Developer to Production System for CI/CD Used docker and Jenkins for
+Automation of the complete Job chain between Developer, Quality Assurance Team, and Production Team. It creates
+Kubernetes resources like Pods, ReplicaSet, Deployment, PVC, and Service in the place of Docker to perform CI/CD.Certifications
+• Coursera certified Introduction to Data Science Specialization by IBM.
+• Certification for Introduction to Machine Learning Nano-Degree program by Udacity.
+• RedHat Training Certification on Ansible for Automation (RH294).
+• RedHat Training Certification for Introduction to OpenShift Applications (DO101).
+• MLOps, DevOps Assembly Lines, and Hybrid Multi Cloud Training Certifications by LinuxWorld Informatics
+Pvt. Ltd.
+Accomplishments
+• Winner - Best Student of the Year ,2013 and 2014.
+• Second Prize - Agri-Tech Project, International Event PRISM, 2020.
+• Winner - Coding Premiere League and Hackathon , 2019 and 2020.
+• Data Science Mentor - TechTable, 2020 and Student CodeIn tech., 2021.
+Teaching/Leadership Experience
+• Event Lead - Computer association of Technical Trends .2018 and 2019
+• Planning Head - Computer Society of India Student Branch ,2019 and 2020.
+• Co-Founder - TechTable Startup, IIT Madras ,2019 and 2020.
+• Founder - Trainings&Internships Community ,2019 and Present.

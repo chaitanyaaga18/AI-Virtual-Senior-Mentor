@@ -1,0 +1,38 @@
+VAISHALI BIJOY
+VAISHALI.BIJOY2016@vitstudent.ac.in
+8511192673
+Education
+St. Patrick’s Junior College Agra, 97% , High School
+St. Patrick’s Juinor College Agra, 95% Secondary SchooL
+Date of birth
+12 May 1998
+Languages known
+Hindi, English, Spanish
+Coursework
+Machine Learning
+Data Visualization
+Data structures and algorithms
+Statistics
+Operating Systems
+Database Management System
+Discrete maths
+Skills
+C++ Java
+Python Arduino
+Android HTML
+PHP Javascript
+MySQL R studio
+Experience
+• Android club coordinator
+• Front end developer in TechnoVIT website team
+• Online event coordinator in TechnoVITProjects
+Good for females
+An android application for women and health safety, emergency mode using android
+modules, safest route using image processing, disease prediction using SVM and linear
+regression.
+Face detection and recognition using openMP
+OpenCV, openMP, cuda
+Smart Farming
+Arduino coding, sensors , thingspeak
+Co-curricular activities
+Reading novels, painting

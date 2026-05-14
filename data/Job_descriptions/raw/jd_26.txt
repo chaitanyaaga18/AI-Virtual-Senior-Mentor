@@ -1,0 +1,37 @@
+26. Business Intelligence Analyst Intern
+
+Company: Intel
+
+Job Title
+
+Business Intelligence Analyst Intern
+
+Location
+
+Bangalore, India
+
+Job Summary
+
+Intel is looking for Business Intelligence Analyst Interns to analyze operational data and generate insights that support strategic decision-making.
+
+Key Responsibilities
+
+Analyze datasets and generate business insights.
+
+Develop dashboards and reports for stakeholders.
+
+Support business teams with data-driven analysis.
+
+Work with data engineering teams.
+
+Basic Qualifications
+
+Pursuing degree in Data Science, Computer Science, or Statistics.
+
+Knowledge of SQL and data visualization tools.
+
+Preferred Qualifications
+
+Experience with Power BI or Tableau.
+
+Knowledge of Python for data analysis.

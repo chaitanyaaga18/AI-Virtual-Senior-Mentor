@@ -1,0 +1,61 @@
+JATIN VARLYANI
+FullStackWebDeveloper
+[ varlyanijatin88@gmail.com (cid:211) (+91)8806502484 ‰ Mumbai,India fi jatin-varlyani.ml fl jatin-varlyani (cid:135) Jatin-8898
+EXPERIENCE EDUCATION
+PHPDeveloperIntern B.TechinInformationTechnology
+MehaarTechnologies VeermataJijabaiTechnologicalInstitute
+(cid:17) May2018–Jun2018
+(cid:17) July2017–May2020 CGPA:8.20
+• DesignedahostelmanagementsystembasedontheOTPmessagefor
+DiplomainComputerEngineering
+ahostelwithstudentregistrationandhistotaltimeaway.
+• Developedanfullfledgedworkingimplementationbeneficialforthe VivekanandEducationSocietyPolytechnic
+hostelstudents. (cid:17) June2014–May2017 Per:94.13%
+ClassXinSSC
+FrontEndDeveloperIntern
+FatimaHighSchool
+MeghnaPlastics
+(cid:17) June2014 Per:89.20%
+(cid:17) Jun2018
+• DesignedanddevelopedaplumpingwebsiteusingBootstrap4witha SKILLS
+veryresponsiveandcleanUIanddescentUserExperience.
+• Afterpublishingthewebsitetotheusers,thecustomerbasegrewby
+C/C++ Java PHP HTML CSS
+60%inthesubsequentmonth.
+SQL JavaScript jQuery Git
+PROJECTS
+Flask React Bootstrap Blockchain
+BlogWebsite(ContentManagementSystem)
+ACHIEVEMENTS
+php,html,css,bootstrap,jquery
+(cid:17) December2018–January2018
+• BasicLogin,Registerfunctionality&Userscanpostblogs. • Amongtop10inGlobalBlockchain
+• Whileadmincanmanageposts,users,categories,comments. HackathonheldinCSI-SPIT 2019
+• DevelopedaChromeExtensionnamed
+Hackpad 2018
+BloodBank(AcademicProject)
+php,html,css,bootstrap,jquery • Secured1stpositioninAcademicsin
+VivekanandEducationSociety 2017
+(cid:17) March2018–May2018
+• DonorscanviewtheupcomingBloodCamps&donateblood. PARTICIPATION
+• SeekerscansearchfordonorsonbasisofCity&BloodType.
+• AdminmanagesallusersandmanagestheBloodStock. • BlockchainforGlobalGood-VJTI 2019
+• EventHeadinTreasureHunt-VES 2017
+ChatBots
+• NationalLevelPaperPresentationat
+dialogflow,facebookpage,python,flask,heroku UniversalCollegeofEngineering 2015
+(cid:17) March2019–March2019 • StateLevelPaperPresentationatD.YPatil
+• DevelopedaChatBotusingtheDialogFlowbasedontheSentimental InstituteofTechnology 2015
+analysisoftheSentence.
+• DeployeditliveonFacebookPageandthehostedthebackendservice CERTIFICATION
+onHeroku.
+• Front-EndWebUIFrameworksandTools:
+RealTimeChatApplication Bootstrap4-Coursera
+mongo,express,node,socket.io,pug • BlockchainFundamentals-Pluralsight
+(cid:17) September2018–September2018 • DesignPatternsinJava-Pluralsight
+• Developedarealtimechatapplicationwheretheuserscancreate • ReactBigPicture-Pluralsight
+theirUsername&startchattingwiththeotherpeopleinthechat • BusinessAnalyst–AspiringMinds
+room.
+• DataProcessingSpecialist-AspiringMinds
+• ProficiencyinEnglish-AspiringMinds
+• SoftwareDevelopmentTrainee-(AM)

@@ -1,0 +1,107 @@
+Michael A. Okonji
+(843) 298-3207 • michael_okonji@yahoo.com • McKinney, TX
+Summary
+Highly accomplished technology professional with 11+ years of diverse experience, culminating in 5+ years
+specializing as an AWS Cloud Engineer / Platform Engineer with a software engineering background,
+designing and maintaining large-scale production infrastructure. Experienced in designing secure AWS
+network architectures (VPC, IAM), implementing high-availability systems, and operating production
+workloads with strong observability, backup/recovery, and cost-awareness. Expert in developing and
+managing CI/CD pipelines using AWS native tools (CodePipeline, CodeBuild, CodeDeploy) and Infrastructure
+as Code (CloudFormation, CDK, Terraform). Proven track record in optimizing complex cloud environments
+through advanced scripting (Python, Bash) and implementing resilient, event-driven serverless architectures.
+Experienced in operating cloud workloads with strong security, compliance awareness, and operational
+controls.
+Professional Experience
+Software Development Engineer June 2025 – Present
+AMAZON WEB SERVICES, DALLAS, TX
+• Built and operated customer-facing AWS services leveraging core competencies in Java and Python, consistently
+shipping features to meet sprint milestones for critical AWS cloud products.
+• Spearheaded CI/CD buildout utilizing AWS CodePipeline + CodeBuild across beta/gamma/prod stages, achieving
+significant reductions in release friction and cycle time.
+• Optimized service communication by replacing constant AWS Lambda polling with event-driven SNS pub/sub
+flow, resulting in a 70% reduction in response time and computing overhead, improving both performance
+and operational cost efficiency.
+• Developed robust AWS CDK (TypeScript) stacks to provision and standardize application
+infrastructure, including VPC resources, IAM roles, networking, and runtime configurations,
+significantly reducing environment setup time and enforcing best practices.
+• Designed and enforced least-privilege IAM roles and policies for services and CI/CD pipelines,
+improving security posture while enabling safe automated deployments.
+• Partnered closely with Product Managers and engineers in Agile sprints to define feature scope, de-risk technical
+dependencies, and ensure iterative delivery.
+• Drove root-cause analysis and postmortems for complex production incidents across distributed services and
+cloud infrastructure, identifying reliability gaps and driving improvements to availability and fault tolerance.
+• Implemented monitoring and alerting using Amazon CloudWatch metrics, logs, and alarms to
+improve service visibility and reduce mean time to detection for production issues.
+Cloud Support Engineer – Deployment 2022 – June 2025
+AMAZON WEB SERVICES, DALLAS, TX
+• Debugged software solutions utilizing the core AWS observability tools such as CloudTrail and CloudWatch and
+developed Infrastructure as Code solutions using CloudFormation and AWS CDK apps, implemented in Python or
+Typescript.
+• Advised enterprise customers on AWS architecture best practices, including VPC design, IAM strategy, CI/CD
+automation, and highly available service deployments.
+• Authored automation scripts utilizing Python and Bash to streamline deployments, configuration
+management, and observability processes.
+• Supported enterprise customers with operational best practices across AWS Backup, EC2 recovery
+workflows, and disaster recovery readiness.• Assisted with infrastructure maintenance and patching strategies using AWS Systems Manager to
+support secure production operations.
+• Provided high-level technical support for global enterprise developer customers across support tickets, direct
+calls, and live chat engagements.
+• Collaborated cross-functionally with Solutions Architects and Technical account managers to design scalable
+and resilient solutions for Fortune 500 customers.
+• Authored comprehensive internal documentation and knowledge base articles to streamline best practices for the
+AWS Cloud Engineering team.
+• Participated in incident response and operational escalation workflows to maintain service availability.
+DevOps Admin, IBM DataStage Admin, Google Cloud Admin 2018 – 2022
+BOEING, NORTH CHARLESTON, SC
+• Automated provisioning, deployment, and configuration of IBM DataStage environments across
+Development, Test, and Production using Ansible and Infrastructure as Code practices, significantly
+reducing manual intervention and improving deployment consistency.
+• Implemented Terraform modules to provision and manage supporting infrastructure components, enabling
+repeatable and standardized environment builds.
+• Provided key administrative support for Google Cloud Platform (GCP) projects, building Proofs of Concept
+(POCs) and scripting solutions for multi-environment architecture.
+• Led the development of Ansible automation scripts specifically for provisioning IBM DataStage environments
+across Development, Test, and Production tiers.
+• Executed patching and maintenance across Linux production systems, reducing unplanned downtime by 20%.
+SQL Server Database Administrator 2016 – February 2019
+BOEING, NORTH CHARLESTON, SC
+• Automated critical database operations by programming T-SQL batch scripts for scheduled backups, retention
+policy enforcement, and performance tuning routines.
+• Maintained 24/7 on-call support coverage, executing advanced troubleshooting and resolution for high-priority
+production database servers.
+• Designed, developed, and scheduled SSIS packages to manage complex ETL processes, significantly improving
+data synchronization fidelity between business units.
+• Collaborated with application and infrastructure teams to strategically plan and execute database migration
+projects, minimizing service disruption.
+Database Administrator August 2014 – November 2015
+INFINITE CONSULTANTS LLC, SNELLVILLE, GA
+• Provided comprehensive administration and tuning support for SQL Server databases across development, test,
+and production environments for a diverse client portfolio.
+• Managed and executed key database migration projects, successfully transitioning SQL Server instances across
+various client infrastructure updates.
+• Implemented robust log shipping solutions for disaster recovery preparedness and configured critical alerts for
+replication tasks to ensure data integrity.
+• Executed installation, configuration, patching, and version upgrades for SQL Server 2008 and 2012 platforms.Education
+Python Programming Certificate May 2020
+SAINT LOUIS UNIVERSITY, MO
+SQL700 – 003 SQL Performance Tuning and Optimization March 2017
+SAINT LOUIS UNIVERSITY, MO
+Bachelor of Science in Computer Science, GPA: 3.24 ; WES Ref# 4352103IMM September 2012
+TANSIAN UNIVERSITY, UMUNYA, NIGERIA
+ADDITIONAL SKILLS
+AWS Cloud Engineering & Networking: EC2, VPC, IAM, ALB/NLB, Route 53 (DNS), Transit Gateway
+Cloud Operations & Monitoring: CloudWatch, AWS Backup, Systems Manager (SSM), Patch Manager
+DevOps & Automation: CloudFormation, Terraform, AWS CDK, CodePipeline, CodeBuild, CodeDeploy
+Containers: ECS, EKS, Docker, Kubernetes
+Scripting & Administration: Bash, Python, PowerShell (basic), Red Hat Linux, Windows Server
+Cost Optimization: Cost Explorer, AWS Budgets, Tagging strategies
+Database Technologies: SQL Server, PostgreSQL.
+Certifications
+• AWS Certified DevOps Engineer – Professional
+• AWS Certified Solutions Architect – Associate
+• AWS Accredited CloudFormation Subject Matter Expert - Credly Badge (November 2023)
+• Google Cloud Certified Associate Cloud Engineer
+• Oracle Certified Associate, Java SE 8 Programmer - Oracle certview
+• Microsoft Certified Professional (MCP) 70-764: Administering a Microsoft SQL Database Infrastructure (2016)
+• AWS Tech U Graduate
+• MTA Database Fundamentals

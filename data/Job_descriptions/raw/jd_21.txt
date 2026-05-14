@@ -1,0 +1,41 @@
+21. Software Engineer Intern
+
+Company: Google
+
+Job Title
+
+Software Engineer Intern
+
+Location
+
+Bangalore / Hyderabad, India
+
+Job Summary
+
+Google is seeking Software Engineer Interns to design and build scalable software solutions that power products used by billions of users worldwide.
+
+Key Responsibilities
+
+Design, develop, test, and deploy software solutions.
+
+Collaborate with cross-functional teams to develop new product features.
+
+Write efficient and maintainable code.
+
+Debug and troubleshoot software issues.
+
+Participate in code reviews and technical discussions.
+
+Basic Qualifications
+
+Currently pursuing a Bachelor’s or Master’s degree in Computer Science or related field.
+
+Programming experience in Java, Python, C++, or Go.
+
+Understanding of data structures and algorithms.
+
+Preferred Qualifications
+
+Experience with distributed systems or cloud technologies.
+
+Knowledge of software development best practices.

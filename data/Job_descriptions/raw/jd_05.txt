@@ -1,0 +1,21 @@
+5. Software Engineer Intern
+
+Company: Meta
+
+Job Summary
+
+Meta seeks interns to develop scalable systems powering social networking platforms.
+
+Responsibilities
+
+Develop backend systems and APIs.
+
+Improve performance and scalability.
+
+Collaborate with product teams.
+
+Requirements
+
+Strong programming skills.
+
+Knowledge of algorithms and distributed systems.

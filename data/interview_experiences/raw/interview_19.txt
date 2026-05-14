@@ -1,0 +1,19 @@
+19. Software Engineer Interview Experience
+
+Company: LinkedIn
+
+Round 1: Online Coding Test
+
+2 coding problems
+
+Round 2: Technical Interview
+
+Coding problem on hash tables
+
+Round 3: System Design
+
+Design a professional networking platform
+
+Round 4: Behavioral Interview
+
+Leadership and collaboration questions

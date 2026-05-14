@@ -1,0 +1,21 @@
+12. Software Engineer Interview Experience
+
+Company: Netflix
+
+Round 1: Coding Assessment
+
+2 algorithm problems
+
+Topics: Dynamic Programming
+
+Round 2: Technical Interview
+
+Coding problem on graph traversal
+
+Round 3: System Design
+
+Design a video streaming platform
+
+Round 4: Behavioral Interview
+
+Questions on culture fit and leadership

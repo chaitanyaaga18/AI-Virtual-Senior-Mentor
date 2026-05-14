@@ -1,0 +1,46 @@
+Ajay kumar
+University of Petroleum andEnergyStudies,Dehradun, Uttarakhand, India
+(+91)9416375515 ajay16malik@gmail.com
+LinkedIn |GitHub
+PROFESSIONAL SUMMARY
+DevOps Engineering student with hands-on experience in AWS, Docker, Kubernetes, Jenkins, GitHub Actions, and Linux, building CI/CD pipelines and
+cloud-based deployments. Strong foundation in Python, Java, SQL, and system administration, with practical experience through full-stack and
+DevOps projects.
+Education
+University of Petroleum and Energy Studies, Dehradun Aug 2023 – Present
+Bachelor of Technology in ComputerScience CGPA: /10
+Apr2017-Mar 2023
+CECIL CONVENT SCHOOL,AMBALA
+Intermediate inPCM 90%
+High School 85.4%
+Technical Skills
+Languages :C,Java, Python Development:HTML, ReactJs
+Database: Basics of SQL, MongoDB Atlas
+DevOps Tools: Jenkins, Terraform, SonarQube, Docker, Kubernetes (basics), GitHub Actions
+Developer tools: VScode, GitHuB, GitBash, Docker, AWS CLI, Google Colab, Vite
+Data Structures and Algorithms CS Fundamentals: Computer Networks, Operating System, AIML, Object-
+oriented Programming, DevOps & its tools, Cloud Projects
+Full StackProjects -
+1. Trip Trekker | Built a full-stack itinerary planner using React, Gemini AI & Google APIs . Github / Vercel (March 2025 - May 2025)
+• TechStack : ReactJS, Firebase Auth, Gemini API, Google Places API, TailwindCSS,Vercel
+2. The Hourglass Experience | Learned the basics of MongoDB atlas| GitHub (November 2023 - December 2023)
+• TechStack : HTML , CSS , Javascript , MongoDB , NodeJS, express.js
+DevOps Projects -
+DevOps Exam App | DevOps 3 tier prject - Deploying a DevOps Mock Exam app using jenkins, docker and sonarqube! GitHub
+Achievements & Certifications
+• Solved150+ DSA problemsacrossdifferent platforms.
+• Have completed various courses on AWS skill builder enhancing my knowledge on cloud and DevOps. (2024-Present)
+• Have completed DevOps 101: What is DevOps? from Great Learning, strengthening my understanding of DevOps fundamentals.
+• Have completed GenAI Powered Data Analytics Job Simulation from Tata (Forage), gaining practical exposure to AI-driven data analysis
+andbusiness insights.(February 2026 - February 2026)
+• Currentlycompleting a certified DevOps course(from Udemy). (2026-Present)
+• Have participated in Summer School on Evolutionary Algorithms & Machine Learning (EvoML 2025) at Dr BR Ambedkar National Institute of
+Technology Jalandhar. (July2025-July2025)Position Of Responsibility
+• Rythukart (DevOpsIntern) - Worked as a DevOps Intern researching loyalty automation platforms and integrating a GPT-powered chatbot to
+improve customer engagement.(June 2025 - July 2025)
+• English Instructor, Social Internship: Led a class of underprivileged children, providing English language instruction and fostering an engaging
+learning environment. (June 2024 - July 2024)
+Leadership / Extracurricular
+• Three-time participant in National Shooting Championships (65th–67th).
+• Awarded multiple medals for outstanding sports performance during schooling.
+• Played cricket at district level.

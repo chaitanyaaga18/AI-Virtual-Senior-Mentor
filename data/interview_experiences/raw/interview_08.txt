@@ -1,0 +1,19 @@
+8. Walmart Interview Experience
+
+Company: Walmart
+
+Round 1: Online Coding Test
+
+2 coding questions
+
+Round 2: Technical Interview
+
+Coding problem on hash tables
+
+Round 3: System Design Round
+
+Design a warehouse management system
+
+Round 4: HR Interview
+
+Behavioral and situational questions

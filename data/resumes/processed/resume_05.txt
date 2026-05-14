@@ -1,0 +1,60 @@
+Chaitanya Agarwal
+Mobile: +91 9680883295 | Email: agarwalchaitanya24@gmail.com | http://linkedin.com/in/chaitanya-agarwal-601897276|
+https://github.com/chaitanyaaga18| https://www.salesforce.com/trailblazer/tj7wan1ara9vintl3o
+EDUCATION
+UPES – GPA: 7.96 Dehradun
+Bachelor’s of Technology May 2027
+Computer Science and Engineering
+Delhi Public School – GPA: 8.9 Alwar
+12th , CBSE , PCM April 2023
+Alwar Public School – GPA: 9.5 Alwar
+10th , CBSE April 2021
+EXPERIENCE
+REY ECOM OPS PVT LTD Remote
+Web Developer Intern June 2025 – July 2025
+● Edited and optimised company web pages to improve UI/UX and maintain brand consistency.
+● Implemented performance improvements, reducing page load time.
+● Collaborated with the development team to debug issues and ensure smoother website functionality.
+Green Birds Foundation Alwar, IN
+Social Intern June 2024 – July 2024
+● Assisted in Community development/Environment Awareness/Social Campaigns.
+● Contributed to organising events and outreach programs that impacted specific community and people
+PROJECT
+Chicken Disease Image Classification [Link]
+● Developed an end-to-end image classification system to identify chicken diseases from poultry images using Deep
+Learning.
+● Designed and trained a Convolutional Neural Network (CNN) model using TensorFlow and Keras for
+multiclass image classification.
+● Performed image preprocessing and data augmentation including resizing, normalization, and
+transformation to improve model generalization.
+● Implemented train-validation-test split to ensure reliable model evaluation and prevent overfitting.
+● Evaluated model performance using accuracy, loss metrics, and confusion matrix.
+● Visualized training results using Matplotlib to analyze model learning behavior.
+● Utilized Python, NumPy, OpenCV, and image processing techniques for dataset handling and feature
+extraction.
+● Demonstrated practical application of Computer Vision and Artificial Intelligence in agriculture and
+poultry health management.
+Salesforce Experience Cloud Website [Link]
+● Designed and deployed a public-facing website using Salesforce Experience Cloud
+● Customized pages using Experience Builder
+● Published the site via Salesforce Developer Edition
+● Live site: https://wise-shark-nandc3-dev-ed.trailblaze.my.site.com/s
+MERN Chat Application[Link]
+● Built a real-time chat application using the MERN stack (MongoDB, Express.js, React.js, Node.js).
+● Implemented user authentication and messaging functionality.
+● Developed responsive UI using React components.
+● Integrated backend APIs with MongoDB for storing user and chat data.ACHIEVEMENT
+● Participated in Smart India Hackathon
+● Runner up Badminton district Championship Rajasthan
+CERTIFICATIONS
+● Mongo DB course, Simplilearn
+● Apna College Placement Preparation course Complete DSA + Web Development
+● Agentic AI vs Generative AI workshop
+● Graph Theory Programming Camp by AlgoUniversity
+SKILLS & INTERESTS
+● ML/AI: Neural Networks, Deep Learning
+● Programming languages: C, Java, Python, JavaScript
+● Web Technologies: HTML, CSS, Angular, JSP,Servlets, Hibernate, Spring, Bootstrap, MongoDB, Express.js, React.js,
+Node.js (MERN Stack)
+● Soft Skills: Communication, Leadership and Teamwork
+● Miscellaneous: MySQL, Git, GitHub, Gitlab

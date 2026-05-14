@@ -1,0 +1,35 @@
+18. Data Scientist
+
+Company: Goldman Sachs
+
+Job Title
+
+Data Scientist
+
+Location
+
+Bangalore, India
+
+Job Summary
+
+Goldman Sachs is looking for Data Scientists to analyze financial datasets and develop predictive models that support business decision-making.
+
+Key Responsibilities
+
+Analyze structured and unstructured financial data.
+
+Build predictive analytics models.
+
+Develop data visualization dashboards.
+
+Basic Qualifications
+
+Degree in Computer Science, Data Science, or Statistics.
+
+Knowledge of Python, SQL, and statistical analysis.
+
+Preferred Qualifications
+
+Experience with machine learning models.
+
+Knowledge of financial data analytics.

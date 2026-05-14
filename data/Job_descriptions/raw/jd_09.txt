@@ -1,0 +1,39 @@
+9. Software Development Engineer
+
+Company: Flipkart
+
+Job Title
+
+Software Development Engineer
+
+Location
+
+Bangalore, India
+
+Job Summary
+
+Flipkart is looking for Software Development Engineers to design and build scalable systems that power one of India’s largest e-commerce platforms.
+
+Key Responsibilities
+
+Develop scalable backend systems and services.
+
+Work on distributed computing systems.
+
+Optimize performance and reliability of applications.
+
+Collaborate with product and engineering teams.
+
+Basic Qualifications
+
+Bachelor’s degree in Computer Science or related field.
+
+Strong knowledge of data structures and algorithms.
+
+Programming experience in Java, Python, or C++.
+
+Preferred Qualifications
+
+Experience with microservices architecture.
+
+Knowledge of cloud infrastructure and distributed systems.

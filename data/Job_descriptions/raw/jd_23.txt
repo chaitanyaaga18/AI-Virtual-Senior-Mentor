@@ -1,0 +1,37 @@
+23. Data Engineer Intern
+
+Company: Netflix
+
+Job Title
+
+Data Engineer Intern
+
+Location
+
+Remote / Global
+
+Job Summary
+
+Netflix is looking for Data Engineer Interns to help build scalable data systems that power analytics and machine learning solutions across the platform.
+
+Key Responsibilities
+
+Build and maintain data pipelines for large-scale data processing.
+
+Develop ETL workflows.
+
+Work with data scientists to support analytics initiatives.
+
+Ensure reliability and scalability of data systems.
+
+Basic Qualifications
+
+Pursuing degree in Computer Science, Data Science, or related field.
+
+Knowledge of Python, SQL, and distributed data systems.
+
+Preferred Qualifications
+
+Experience with Spark, Hadoop, or cloud platforms.
+
+Knowledge of data warehousing concepts.

@@ -1,0 +1,50 @@
+RAJNEESH PRAJAPATI
++91- 6376927568 | im.rajneeshprajapati@gmail.com
+linkedin.com/in/rajneesh500110679/ | github.com/RajneeshPrajapati11
+QUICK GUIDE
+• Programming: Java (DSA), C (Basic), Python (ML), MySQL, JavaScript
+• Web Development: HTML, CSS, JavaScript and MongoDB
+• Machine Learning: Applied ML techniques, dataset analysis, and algorithm implementation.
+• Computer Fundamentals: DBMS, OS, SQL and Computer Networks.
+• Current Internship: IBM virtual internship on Machine Learning for 2 months. Tech advanced NLP and data analysis.
+EDUCATION
+• University of Petroleum and Energy Studies 2022 – Present
+B. Tech in Computer Science CGPA: 8.44 (Current)
+• Central Board of Secondary Education 2021
+Senior Secondary Percentage: 85.8%
+• Rajasthan State Board 2019
+Secondary Education Percentage: 87%
+PROJECTS
+AI Clinical Trial Matching System Link >
+• An intelligent web app that matches individual patients to clinical trials using both rule-based criteria and semantic
+similarity of unstructured medical text.
+• Combining advanced NLP, ChromaDB-powered vector search, and a Streamlit interface, it delivers real-time, explainable
+results with professional analytics and PDF reports.
+DSA based Projects
+◦ N Queens Visualizer using Backtracking Link >
+◦ Binary tree Visualizer Link >
+Machine Learning Models Link >
+Tools: Google Colab, VS Code, Kaggle
+◦ Conducted drug discovery research using the ChEMBL database. Conducted data cleaning by handling missing values,
+outliers, and feature engineering.
+◦ Developed a WhatsApp Chat Analyzer as a Streamlit app to analyze chat data. Link >
+◦ Developed a CNN for Classifying Traffic Signs.
+◦ Performed Market Basket Analysis using Association Rule Mining and the Apriori Algorithm.
+◦ Implemented a particle identifier (hedron or gamma) using KNN, Naive Bayes, Logistic Regression, and
+SVM, with performance comparison across methods.
+ACTIVITIES
+• Solved 200+ DSA problems on LeetCode and GeeksForGeeks.
+• Developed a laxer and parser on C as my minor project.
+CERTIFICATIONS
+Web Development Internship
+CodSoft | Virtual
+◦ Web development experience with front-end and back-end technologies.
+Career Essentials in Generative AI
+LinkedIn- learning| Microsoft
+◦ Covered AI fundamentals and Generative AI applications.
+Data Visualization Using Python
+Great Learning
+◦ Used Matplotlib, Seaborn, and Pandas for data visualization.
+Certificate of Participation
+ICMLDE 2024 | UPES
+◦ Workshop on AI, Quantum Computing, and Autonomous Vehicles.

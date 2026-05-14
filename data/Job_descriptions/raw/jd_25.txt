@@ -1,0 +1,37 @@
+25. DevOps Engineer Intern
+
+Company: Atlassian
+
+Job Title
+
+DevOps Engineer Intern
+
+Location
+
+Bangalore, India
+
+Job Summary
+
+Atlassian is seeking DevOps Engineer Interns to support cloud infrastructure and automation for enterprise software products.
+
+Key Responsibilities
+
+Automate deployment pipelines.
+
+Monitor cloud infrastructure and services.
+
+Support CI/CD processes.
+
+Collaborate with development teams to improve deployment workflows.
+
+Basic Qualifications
+
+Pursuing degree in Computer Science or Information Technology.
+
+Knowledge of Linux, scripting, and cloud computing.
+
+Preferred Qualifications
+
+Familiarity with Docker, Kubernetes, or AWS.
+
+Experience with CI/CD tools such as Jenkins.

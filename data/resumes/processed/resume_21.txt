@@ -1,0 +1,55 @@
+Sudipto Baral
+London,Ontario,Canada|sudiptobaral.me@gmail.com|+1(226)9989-948
+linkedin.com/in/sudiptob2|github.com/sudiptob2
+Experienced #opensource contributor with a proven track record in large projects from Google, Apache, CNCF and having a strong
+understandingofopen-sourcecultureandcommunityengagement.Proficientinbackenddevelopment,cloudcomputing,andKubernetes.
+EDUCATION
+WesternUniversity|Ontario,Canada|114onQSRanking ExpectedDec2024
+MScComputerScience,Thesisin NetworkIntrusionDetectionandExplanationusingXAIandLLMs;Fullyfundedresearchscholar.
+CurrentCGPA4.0/4.0(Above90%)
+OPENSOURCEEXPERIENCE
+MLHFellowship(OpensourceInternship)@apache/airflow
+● LeadingthemigrationofAirflowfromconnexionv2toconnexionv3.
+● FocusingonKubernetesoperatorandcontainer-basedapplicationintegrationwithAirflow.
+● Engaging in documentation enhancement, testing of releasecandidates,improvingunittests,andmaintaininganactivepresence
+withintheAirflowcommunityandSlackchannels.
+● SomesignificantPRs:#37638Migratetoconnexionv3,#37944ReducingKubernetesPodLog
+Skills:Python,Pytest,Docker,Kubernetes,HelmChart, projectmanagement.
+GoogleSummerofCode2023(OpensourceInternship)@google/gcp_scanner
+● Enhancedtestcoveragebyaddingnewunittests,leadingtoa10%increaseinoverallcoverage.
+● ConductedsignificantrefactoringofthecrawlingmoduletoimprovemodularityandupholdtheDRYprinciple.
+● Expandedtheapplication'scapabilitiestoscanabroaderrangeofGCPresources,increasingitspotentialusecases.
+● ThefinalreportandlistofcontributionsareavailablehereonGitHub.
+Skills:python,Pytest,designpattern,GoogleCloudplatform,GitHubactions,projectmanagement.
+Member&Contributor@CNCFKeptn
+● BeinganorgmemberIactivelycontributetonewfeatures,bugfixes,writeunittestsinGolang,andparticipateinofficehours.
+● ImplementedDatadogmetricproviderintegration.[PRlink:#948]
+● Collaborateonthedevelopmentandimprovementofdocumentationmaterials.
+Skills:Golang,unittesting,Kubernetes,Helm,Datadog,Prometheus,Grafana,ArgoCD,vault,Terraform,Observability,Linux
+CF-Stats@personalproject|150+starsonGitHub
+● UtilizedGitHubActionstogeneratereal-timeCodeforcesuserstatcardsandbadgesforreadmefiles.
+● ImplementedPythondesignpatternstoenabletheconsumptionofCodeforcesAPIinascalablemanner.
+● EmployedPytestforfeature-levelunittestingandimplementedGitHubActionsforseamlesstestpipelineexecution.
+● Ensured proper documentation and adhered to open-source best practices, including branch naming conventions, commit
+messages,andissuetracking.
+Skills:Python,GitHubActions,workflowautomation, documentation,projectmanagement,Pytest,PRreview.
+WORKEXPERIENCE
+SoftwareEngineer Mar2021-Jul2023
+BRACIT|Dhaka,Bangladesh
+● Developed high-quality,efficient,andresilientcodeforvariousclientsandinternalenterprise-levelbackends,leveragingPython,
+Django,Node.js,andGolang.
+● Implemented secure authentication mechanisms and role-based access controls, incorporating technologies such as Keycloak,
+JWTauthentication,OAuth,andpassport.js.
+● Successfully integrated an open-source object storage solution (Minio), resulting in a 30%reductionincostscomparedtoAWS
+S3buckets.
+● Utilized GitLab pipelines, Kubernetes, Docker, and other automation tools to optimize the company'sCI/CDprocess,playinga
+pivotalroleinachievingCMMI-DEVLevel3certification.
+Skills: DevOps, Backend, Python, Django, Docker, docker-compose, minio,Keycloak,Oauth,roles-permission,rest-API,microservices,
+NodeJs,Gitlabpipelines,Kubernetes,GCP,projectmanagement,businessanalysis.
+TeachingAssistant Sep2023-Present
+WesternUniversity|Ontario,Canada
+● SupportingstudentsinunderstandingcomplexOSconcepts,ensuringtheiracademicsuccess.
+● Assistingradingassignmentsanddeliveringconstructivefeedbacktofacilitatestudentimprovement.
+● Conductinteractivetutorialsandpracticallabstoenhancestudents'hands-onskillsandCollaboratewiththeprofessortoensurea
+cohesiveandeffectivelearningenvironment.
+Skills:Cprogramming,Linux,GoLang,Threading,Multiprocessing,Teaching

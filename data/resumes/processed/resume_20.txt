@@ -1,0 +1,50 @@
+Rohan Singh
+https://github.com/rohan23jytk| www.linkedin.com/in/rohan-singh-b3b8393b2 | amssre.006798@gmail.com | +91-6398960124
+EDUCATION
+University of Petroleum and Energy Studies, India Aug 2023 - June 2027
+Bachelors of Technology in Computer Science(AIML) CGPA: 7.54/10.0
+Asha Modern School, India 2022 - 2023
+CBSE Higher Secondary Certificate Percentage – 70%
+Asha Modern School, India 2020 - 2021
+CBSE Secondary School Certificate Percentage – 82%
+INTERNSHIP
+Web Development Intern | Group Lead
+Kush IT World (June 2025 – July 2025)
+ Developed responsive web pages using front-end.
+ Gained hands-on experience in real-world web development projects.
+ Improved teamwork, problem-solving, and communication skills.
+
+Social Intern
+Al Zahra Education Society — (June 2024-july2024)
+ Contributed to educational and community development activities
+ Assisted in organizing academic support programs for students
+ Participated in social outreach and awareness initiatives
+PROJECTS/RESEARCH
+Kidney Cancer Classification using EfficientNetB0 (Deep Learning Project)
+Technologies: Python, TensorFlow, Keras, EfficientNetB0, Google Colab
+ Developed a CNN model using transfer learning with EfficientNetB0 to classify kidney CT images.
+ Fine-tuned last 20 layers to improve feature extraction.
+ Applied data augmentation and dropout to reduce overfitting.
+ Evaluated using accuracy, precision, recall, F1-score, and confusion matrix.
+Salary Management System using Python & MySQL
+Technologies: Python, MySQL, SQL
+ Developed a console-based salary system integrated with MySQL.
+ Designed relational schema with primary & foreign keys (one-to-many relationship).
+ Implemented CRUD operations using Python and SQL.
+ Automated net salary calculation with SQL generated columns.
+SKILLS
+Programming languages: C, Java, Python, JavaScript
+ML/AI: Machine Learning, Deep Learning, Pattern and Visual Recognition
+Libraries: TensorFlow, Scikit-learn, Pandas, NumPy, Matplotlib
+Soft Skills: Communication, Leadership and Teamwork
+Development Tools: GitHub, Google Colab, Jupyter Notebook, VS Code
+CERTIFICATES
+ DSA+full Stack Development (Aug 2025 – Present)
+Apna College, Virtual
+ MongoDB (Aug 2024 - Sep 2025)
+SIMPLILEARN, Virtual
+ACCOMPLISHMENTS/ RECOGNITION
+ Participated in Smart India Hackathon (SIH).
+ Received IEEE Certificate of Participation for IEEE Technical Webinar during IEEE Day 2025.
+
+

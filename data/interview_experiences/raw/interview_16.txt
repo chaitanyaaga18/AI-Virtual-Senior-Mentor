@@ -1,0 +1,21 @@
+16. Software Engineer Interview Experience
+
+Company: Oracle
+
+Round 1: Coding Test
+
+2 coding problems
+
+Topics: Linked lists and arrays
+
+Round 2: Technical Interview
+
+Questions on Java and object-oriented programming
+
+Round 3: System Design
+
+Design a database caching system
+
+Round 4: HR Interview
+
+Questions about previous projects

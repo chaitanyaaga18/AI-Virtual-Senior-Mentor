@@ -1,0 +1,62 @@
+Anirudh Boddu
+(314) 224-8521 | bodduanirudh992@gmail.com | www.linkedin.com/in/anirudh199
+https://github.com/bodduanirudh
+PROFESSIONAL SUMMARY
+Backend Engineer with 3+ years of experience building scalable cloud-native applications. Skilled in Python and backend design
+for high-reliability, low-latency systems, with proven improvements to performance and reliability. Experienced in containerized
+deployments on AWS and Kubernetes, contributing to agile teams and complex data pipelines, now eager to apply skills to weather
+and geospatial data processing.
+SKILLS
+• Languages & Frameworks: Java (Core, Spring Boot, Spring Cloud), Python, SQL, JavaScript, Ruby
+• Databases: PostgreSQL, Oracle DB, MongoDB, Redis
+• Cloud & DevOps: AWS (EC2, S3, RDS, Lambda), Docker, Kubernetes, Jenkins, GitHub Actions
+• APIs & Messaging: REST, SOAP, gRPC, Kafka, RabbitMQ
+• Testing & Monitoring: JUnit, Mockito, Postman, Prometheus, ELK Stack
+• Practices: Agile/Scrum, CI/CD automation, Secure coding, Code reviews, Mentoring, Individual Contributor, Scientific Computing
+• Engineering & Systems: Backend Engineering, Low-latency Systems
+EXPERIENCE
+Sree Hans Solutions May 2024 - Present
+Java Developer Celina, TX
+• Engineered backend services with a focus on scalable architecture and data processing reliability, improving transaction stability and
+reducing client-reported issues by ~15%.
+• Optimized SQL queries and restructured data access layers to reduce response times by 35%, ensuring high-reliability and low-latency
+data retrieval.
+• Developed Swing-based internal finance tools to enhance usability for analysts and minimize manual data entry errors.
+• Collaborated with QA and business analysts during agile sprints to clarify requirements and reduce rework, cutting backlog churn.
+• Partnered with DevOps to containerize backend services using Docker and streamline deployments via Jenkins pipelines, bolstering
+operational efficiency.
+• Diagnosed and resolved recurring production bugs, thereby reducing customer support tickets by approximately 20%.
+• Mentored junior engineers on debugging workflows and code review practices, reinforcing high-quality code and individual contributor
+excellence.
+Tata Consultancy Services (TCS) Jan 2021 - Aug 2022
+Software Developer India
+• Designed and maintained Spring Boot microservices for onboarding and claims workflows, supporting 10K+ daily users with
+enterprise-scale reliability.
+• Engineered secure REST and SOAP APIs for data exchange, enhancing SLA compliance by ~25%.
+• Implemented Spring Cloud service discovery to reduce inter-service latency and prevent cascading failures in distributed systems.
+• Automated deployment pipelines with GitHub Actions, Docker, and Kubernetes to enable continuous integration and zero-downtime
+releases.
+• Managed high-priority production incidents by triaging and resolving issues, cutting average bug resolution time by 40%.
+• Collaborated with QA to improve test coverage on critical workflows, thereby reducing post-release defect counts.
+• Onboarded new hires and authored comprehensive documentation, decreasing ramp-up time by ~25% and reinforcing a strong
+individual contributor approach.
+EDUCATION
+Saint Louis University Aug 2022 - 2024
+Graduate Student
+• Coursework: Object-Oriented Software Design, Algorithms, AI, Applied ML, Big Data Analytics, NLP, HCI
+DIET Sep 2020
+Bachelor of Technology, Electronics & Communication Engineering
+PROJECTS
+Stock Pattern Detection with Reinforcement Learning
+• Built and deployed an RL-based market trend predictor (~68% accuracy) using 5 years of financial data, helping identify profitable
+trade signals.
+Diabetic Diet Advisor + Wearable Prototype
+• Developed a nutrition recommendation platform that ingested wearable health data in real-time to generate personalized diet plans.
+Flappy Bird: Survival Mode Edition• Created a multiplayer Flappy Bird clone with WebSocket-based real-time gameplay, adaptive difficulty, and synchronized scoring.
+Smart Pot: AI-Driven Self-Regulating Planter
+• Automated irrigation and lighting through sensor feedback, reducing manual plant maintenance by 70% and improving plant health
+monitoring.
+CERTIFICATIONS
+• Java Spring Framework Specializations:Coursera
+• AWS Cloud Solutions Architect:Coursera
+• Microservices with Spring Boot and Spring Cloud:Coursera

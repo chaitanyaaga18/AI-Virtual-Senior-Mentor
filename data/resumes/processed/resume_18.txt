@@ -1,0 +1,49 @@
+Luv Sharma
+Software Developer — Backend — Java
+# luv05sharma@gmail.com (cid:131) +91-7073779311 (cid:239) linkedin.com/in/luv-sharma § github.com/Luv3522
+Education
+The LNM Institute Of Information And Technology Jaipur
+Bachelors of Technology in Computer Science And Engineering 2020-2024
+• Selected Coursework: Data Structures And Algorithms , Operating Systems , DBMS , Computer Networks
+Experience
+BluSmart Mobility Pvt. Ltd Gurugram , Haryana
+Software Developer Engineer 12/2024 - Present
+∗ Technology Used: Java, Spring Boot, SQL, MongoDB, Redis, Jenkins, CI/CD, Kibana
+∗ Bulk Cancellation of rides- Collaborated with the backend team to optimize bulk ride cancellation processes,
+contributing to a significant 6x performance improvement that reduced API execution time from 24s to 4s. Played a key
+role in implementing efficient data filtering, reducing database calls, and leveraging concurrency to handle large-scale ride
+cancellations during emergencies.
+∗ Scheduled Rides- Worked closely with the analytics and operations teams to develop a real-time dashboard for
+visualizing scheduled rides data. My contributions helped create MongoDB-backed analytics with advanced filtering
+capabilities, which supported the team in improving demand forecasting and reducing resource misallocation by 25%
+Software Developer Engineer Intern 06/2024 - 12/2024
+∗ Technology Used: Java, Spring Boot, SQL, MongoDB, Redis, Jenkins, CI/CD, Kibana
+∗ Partnered with the driver support and regional expansion teams to develop a self-service ride creation flow for drivers in
+the Dubai region. As part of the collaborative effort, helped create a feature that increased driver partners’ income by
+100% and reduced dispatch workload.
+∗ Worked with the finance and development teams to create a bulk-refund feature, ensuring transactional integrity through
+innovative Redis-based locking mechanisms in a distributed environment.
+∗ Breakdown Management System for BluSmart- Collaborated across multiple teams to implement the Breakdown
+Management System backend. Our collective efforts reduced the turnaround time for issue resolution by 90% and helped
+decrease fraud by 30% in monthly billing.
+Snoodify Remote
+Backend Developer Intern 04/2024 - 06/2024
+∗ Technology Used: Java, Spring Boot, SQL, AWS
+∗ Collaborated with the product and design teams to build comprehensive reel engagement features. Contributed to
+developing like, comment, and ”not interested” functionalities that increased user interaction by 40% and content
+discovery by 35% within the first month of deployment.
+Personal Projects
+Client Management Application - LINK Dec 2022
+· Tools technologies used: Eclipse IDE , Java , HTML , CSS , Spring Boot , REST API
+· Designed and implemented backend RESTful API endpoints using Spring Boot, enabling CRUD operations on client data.
+Developed database schema and utilized SQL queries to interact with the database for storing and retrieving client
+information. Implemented user authentication mechanisms to ensure secure access to the application’s features.
+Technical Skills
+Languages: C++, Java , SQL
+Developer Tools: Visual Studio Code, IntelliJ Idea , Eclipse IDE.
+Technologies/Frameworks: Spring Framework , Kafka , Hibernate, Microservice Architecture , RESTful web services ,
+OOPS , Design Patterns , AGILE , Maven , Git
+Cloud/Databases: SQL , NoSQL ,Redis
+Coursework: Data Structures, Algorithms , DBMS , Operating Systems, Computer Networks , Object-Oriented
+Programming (OOP)
+Coding Platforms: Leetcode , Geeks For Geeks

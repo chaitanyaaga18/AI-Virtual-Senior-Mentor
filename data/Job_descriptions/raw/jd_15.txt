@@ -1,0 +1,39 @@
+15. Machine Learning Engineer Intern
+
+Company: NVIDIA
+
+Job Title
+
+Machine Learning Engineer Intern
+
+Location
+
+Bangalore, India
+
+Job Summary
+
+NVIDIA is seeking Machine Learning Engineer Interns to develop and optimize deep learning models used in cutting-edge AI technologies.
+
+Key Responsibilities
+
+Design and implement machine learning algorithms.
+
+Train deep learning models on large datasets.
+
+Optimize models for GPU acceleration.
+
+Collaborate with research teams.
+
+Basic Qualifications
+
+Pursuing degree in Computer Science, AI, or Data Science.
+
+Strong programming skills in Python.
+
+Knowledge of machine learning and deep learning frameworks.
+
+Preferred Qualifications
+
+Experience with PyTorch or TensorFlow.
+
+Knowledge of CUDA programming.

@@ -1,0 +1,23 @@
+4. Adobe Interview Experience
+
+Company: Adobe
+
+Round 1: Coding Test
+
+2 coding questions (Medium difficulty)
+
+Topics: Arrays and Hashing
+
+Round 2: Technical Interview
+
+Questions on operating systems and DBMS
+
+Coding problem on dynamic programming
+
+Round 3: Technical Interview 2
+
+Questions on system design and scalability
+
+Round 4: HR Interview
+
+Questions about career goals

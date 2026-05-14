@@ -1,0 +1,21 @@
+6. Flipkart Interview Experience
+
+Company: Flipkart
+
+Round 1: Online Coding Round
+
+2 coding questions (DSA)
+
+Round 2: Technical Interview
+
+Questions on Trees and Graphs
+
+Coding problem on binary search
+
+Round 3: System Design Round
+
+Design an e-commerce recommendation system
+
+Round 4: HR Interview
+
+Discussion about projects and internship experience

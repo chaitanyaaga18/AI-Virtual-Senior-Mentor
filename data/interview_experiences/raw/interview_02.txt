@@ -1,0 +1,25 @@
+2. Microsoft Interview Experience
+
+Company: Microsoft
+
+Round 1: Online Coding Test
+
+2 coding problems
+
+Topics: Dynamic Programming and Strings
+
+Round 2: Technical Interview
+
+Coding question on linked list manipulation
+
+Discussion on object-oriented programming
+
+Round 3: Technical Interview 2
+
+System design question: Design a file storage system
+
+Round 4: HR Interview
+
+Resume discussion
+
+Questions about projects and teamwork

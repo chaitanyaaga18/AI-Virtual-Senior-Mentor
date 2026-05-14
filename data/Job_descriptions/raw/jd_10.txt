@@ -1,0 +1,39 @@
+10. Data Engineer Intern
+
+Company: Walmart
+
+Job Title
+
+Data Engineer Intern
+
+Location
+
+Bangalore, India
+
+Job Summary
+
+Walmart Global Tech is seeking Data Engineer Interns to design and develop scalable data pipelines and support analytics initiatives.
+
+Key Responsibilities
+
+Develop and maintain data pipelines for large datasets.
+
+Build ETL workflows and optimize data processing systems.
+
+Work with big data tools to analyze and process data.
+
+Collaborate with data scientists and analysts.
+
+Basic Qualifications
+
+Pursuing degree in Computer Science, Data Science, or related field.
+
+Knowledge of Python and SQL.
+
+Understanding of data structures and database systems.
+
+Preferred Qualifications
+
+Experience with Hadoop, Spark, or cloud platforms.
+
+Knowledge of data warehousing concepts.

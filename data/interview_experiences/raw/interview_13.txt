@@ -1,0 +1,21 @@
+13. Software Engineer Interview Experience
+
+Company: Samsung Electronics
+
+Round 1: Online Test
+
+Aptitude and programming
+
+Round 2: Technical Interview
+
+Questions on C/C++ programming
+
+Data structures problems
+
+Round 3: Technical Round
+
+Questions on operating systems and networking
+
+Round 4: HR Interview
+
+Behavioral and situational questions

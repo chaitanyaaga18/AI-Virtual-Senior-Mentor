@@ -1,0 +1,41 @@
+JOHN DOE
+UndergraduateBSc
+# johndoe@example.com § john_doe (cid:239) john_doe * Mars
+WORKEXPERIENCE
+SoftwareEngineer Hooli,Moon
+— C C++ C# R F T z Sept2021–Aug2022
+• EngineeredmodernapplicationswithJava,JavaScript,SQLServer,andNoSQL.
+• Ledateamof5juniorsoftwareengineersundertakingthesoftwaredevelopmentlifecyclefor9bespokeclientprojects.
+• Builtinnovativeuseraccountcontrol(UAC)featuresintonewproductstoexceedindustrystandardsandachieve100%compliance
+withbestpractices.
+Slashedsecuritybreachesbyanaverageof81%forallclients.
+SeniorWebDeveloper/SystemsArchitect NewEnterprise,Saturn 2
+— Node.js PHP Python Laravel z Jan2015–Aug2021
+• Structureseveralinternalsystemscomprisingorderentry/managementtools,conversion/revenuereporting,andproductionworkflow
+tracking,aswellasdesignedcustomRESTAPIsbuiltinPython,LaravelPHP,andNodeJS.
+• SuccessfullyinstalledLinuxserversandvirtualizedenvironmentsusingDocker,Hyper-V,andAmazonWebServices.
+• DesignedandimplementedPHPwebapplication,streamlininghigh-servertrafficresourceconfigurationandallocation.
+SeniorProgrammer EcommerceAgency,Venus
+— Unix PHP5 MySQL CSS z Jun2013–Dec2014
+• Successfullygeneratedback-endprogrammingutilizingLAMPstack;Linux(CentOS5/Redhat),ApachewithKohana2,PHP5,CSS,
+JavaScript/jQuery,andMySQLframeworks.
+• Createde-commercesitesintegratedwithPayPal,Authorize.net,andotherpaymentgatewayAPIs.
+• Providedleadershipasasubjectmatterexpert(SME)onhostingissues,clientandstafflogins,andgeneralupgrades/maintenanceof
+servers.
+EDUCATION
+Bachelor’sdegreeinComputerScience StateUniversity
+(cid:192) 4.00/4.00GPA z Sept2018-June2021
+• RelevantCourseworkincludeddatastructures,softwareengineering,computerethics,andapplicationandsystemdesigngroupelec-
+tives.
+Reactcourse Coursera 2
+• ReactJSoffersgracefulsolutionstosomeoffront-endprogramming’smostpersistentissues,allowingyoutobuilddynamicandinter-
+activewebappswithease.It’sfast,scalable,flexible,powerful,andhasarobustdevelopercommunitythat’srapidlygrowing.
+ACHIEVEMENTS
+WinnerofMetaHackerCup2021 MetaHackerCup,Remote
+— C++ Python z Nov2021
+Obtained€10.000winningfirstplaceoutof2.000competitors.
+SIDEPROJECTS
+E-LearningPlatform FullStackApp
+— Node.js Express React JavaScript Python Django Firebase Git Docker §john_doe/e-learning
+DailyRoutePlanner APIDevelopment
+— Django Python Vue.js JavaScript SQLite Bootstrap Git §john_doe/daily_route_planner

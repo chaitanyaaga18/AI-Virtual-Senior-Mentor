@@ -1,0 +1,107 @@
+Lorenzo King III, Backend Engineer
+6012 Knightdale Eagle Rock Rd, Wendell, NC, 27591, United States, 7274803399, lorenzomkingiii@gmail.com
+PROFILE Seasoned Backend Engineer with experience in designing, building, testing, and maintaining scalable and robust
+applications in various platforms and languages. Able to effectively self-manage during independent projects, as
+well as collaborate as part of a productive team.
+EDUCATION
+Aug 2016 — May 2020 Bachelor of Science in Computer Science, Minor: Mathematics, Petersburg, VA
+Virginia State University
+GPA: 3.474 / 4.000
+EMPLOYMENT HISTORY
+Jan 2022 — Present Backend Engineer, IBM Durham
+• Advanced from Band 6 to Band 7 Backend Engineer, reflecting enhanced technical proficiency, leadership
+abilities, and contributions to project outcomes.
+• Spearheaded the successful development and delivery of a critical feature for our team's product, securing
+a lucrative $3 million contract.
+• Collaborated with multiple development squad leads in order to execute the design, development, and
+testing of efficient RESTful API routes using Scala and Go programming languages.
+• Leveraged Docker to orchestrate and containerize multiple APIs resulting in faster build times and better
+scalability.
+• Provided technical guidance and support in software development through leading the onboarding of new
+hires and interns.
+• Identified and remediated dependency vulnerabilities to enhance security and ensure timely releases for
+IBM Edge Application Manager product
+• Utilized strong interpersonal and communication skills as a key technical representative for IBM,
+collaborating with cross-functional teams and external clients to ensure customer satisfaction and drive
+revenue growth
+Jul 2020 — Jan 2022 Cloud and Cognitive Software Developer, IBM Durham
+• Overhauled Site Planner's authentication method using Django and Python to integrate with Zen
+Authentication used by Cloudpak for Network Automation
+• Introduced database-efficient user permission creation/update based on Zen roles and implemented
+middleware code to handle user verification and parsing for seamless authentication, while maintaining
+backwards compatibility with non-Zen authentication use cases.
+• Improved efficiency of our team's Secure Device Onboard implementation by 50 percent through
+implementing new API routes and bash scripts to handle Owner Key pair attestation.
+• Containerized multiple APIs using Docker to enable seamless deployment and scaling of services.
+• Protected the timely release of our product by facilitating unit, integration, penetration, and end-to-end
+tests for multiple product components.
+• Developed and delivered an engaging and informative presentation about my career path and my role
+within our team's product for a cohort of high school students in a technology internship program (P-Tech
+Program).
+• Collaborated with program coordinators and other stakeholders to ensure the content was relevant,
+up-to-date, and aligned with industry standards and best practices.
+• Managed all aspects of the presentation process, from scheduling and logistics to technical setup and
+troubleshooting, ensuring smooth and seamless delivery.
+May 2018 — Aug 2018 Hybrid Cloud Software Developer Intern, IBM Durham
+• Improved the proficiency of live demo instances by developing a RESTful API to generate data.
+• Eliminated the need for 30 microservices which in turn reduced costs to run live demo environments by
+75 percent per month
+PROJECTS
+Jul 2022 — Mar 2023 Open Horizon• Contributed production quality code for multiple microservices as an official Repository Maintainer
+within the Open Horizon (open source) community and project
+• IBM and Open Horizon community representative to the SDO/FDO Alliance and Intel
+• Integrated Fido Device Onboard within Open Horizon and IBM Edge Application Manager to facilitate
+zero touch onboarding of a device to a respective management platform
+• Automated deployment processes using Bash scripting, reducing deployment time by 70%
+Oct 2020 — Jan 2021 OmniBot
+• Led a team in the development of "Omnibot," a Slack bot that automates custom answers to frequently
+asked questions in an SME's direct messages, increasing efficiency in coworker interactions
+• Won the IBM Jumpstart Hackathon Judges Choice Award for Omnibot
+• Collaborated with subject matter experts to identify common queries and design a conversational interface
+for Omnibot
+• Developed the backend of Omnibot using Python and Flask and integrated it with Slack API
+• Implemented natural language processing (NLP) algorithms to improve Omnibot's ability to understand
+user queries and provide accurate responses
+Sep 2022 — Jan 2023 Spreadly
+• Contributed to the development of Spreadly, a crypto sports predictions market built on top of the Ergo
+platform
+• Utilized Solidity to develop smart contracts and ensure secure transactions within the Spreadly ecosystem
+• Leveraged Python and javascript to help build the backend of Spreadly, enabling seamless communication
+between front-end and smart contracts
+Apr 2019 — Feb 2020 Ping VSU
+• A mobile application that informs Virginia State University (VSU) students about school alerts, events,
+and shuttle schedules. (POC)
+• Utilized Xcode and Swift to build the mobile app and ensure seamless user experience.
+• Reduced confusion among students by having a central location for all VSU information
+2018 N.A IBM Hackathon - IBM Cafe
+• Developed a web application for IBM employees to order food, see cafeteria hours, and view monthly food
+calendar from their local IBM cafe
+• Increases efficiency by eliminating wait times and helping keep cafe staff organized and prepared
+SKILLS Edge Computing Database Management
+High Throughput and High Data Modeling
+Volume Systems
+Build Management
+Container Orchestration
+Configuration Management
+API Development
+Python
+High Level Design
+Golang
+Low Level Design
+Technical Writing
+Scala
+Swagger Documentation
+Git
+HTTPS/TLS
+SQL
+API Keys
+Linux/Unix
+User Management Systems
+Adaptability
+Authentication and
+Microservices Authorization Systems
+Kubernetes IoT Constellations
+Agile Methodologies Development Team Leadership
+Automated Testing Distributed Systems
+LINKS Github
+https://github.com/lorenzoking

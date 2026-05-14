@@ -1,0 +1,37 @@
+19. Software Engineer Intern
+
+Company: Uber
+
+Job Title
+
+Software Engineer Intern
+
+Location
+
+Bangalore, India
+
+Job Summary
+
+Uber is seeking Software Engineer Interns to help build scalable transportation and logistics platforms used globally.
+
+Key Responsibilities
+
+Design and develop backend services.
+
+Improve performance and reliability of distributed systems.
+
+Collaborate with engineering teams on new features.
+
+Basic Qualifications
+
+Pursuing degree in Computer Science or related field.
+
+Strong programming skills in Java, Python, or Go.
+
+Knowledge of data structures and algorithms.
+
+Preferred Qualifications
+
+Experience with distributed systems.
+
+Knowledge of microservices architecture.
